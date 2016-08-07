@@ -1,0 +1,14 @@
+﻿Build started 8/7/2016 3:00:38 PM.
+     1>Project "c:\Users\Ali J\documents\visual studio 2013\Projects\SimplePaint\SimplePaint\SimplePaint.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio\VS2013 installed version\VC\bin\CL.exe /c /I"D:\Lib\Glew and Glut\glew-1.11.0\include" /I"D:\Lib\Glew and Glut\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Visual Studio\VS2013 installed version\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ali j\documents\visual studio 2013\Projects\SimplePaint\Debug\SimplePaint.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Lib\Glew and Glut\glew-1.11.0\lib" /LIBPATH:"D:\Lib\Glew and Glut\freeglut\lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ali j\documents\visual studio 2013\Projects\SimplePaint\Debug\SimplePaint.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ali j\documents\visual studio 2013\Projects\SimplePaint\Debug\SimplePaint.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Point.obj
+         SimplePaint.vcxproj -> c:\users\ali j\documents\visual studio 2013\Projects\SimplePaint\Debug\SimplePaint.exe
+     1>Done Building Project "c:\Users\Ali J\documents\visual studio 2013\Projects\SimplePaint\SimplePaint\SimplePaint.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
